@@ -1,0 +1,15 @@
+C:\Users\Diogo\Desktop\Codigos\Csharp\functions\obj\Debug\net7.0\functions.csproj.AssemblyReference.cache
+C:\Users\Diogo\Desktop\Codigos\Csharp\functions\obj\Debug\net7.0\functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo\Desktop\Codigos\Csharp\functions\obj\Debug\net7.0\functions.AssemblyInfoInputs.cache
+C:\Users\Diogo\Desktop\Codigos\Csharp\functions\obj\Debug\net7.0\functions.AssemblyInfo.cs
+C:\Users\Diogo\Desktop\Codigos\Csharp\functions\obj\Debug\net7.0\functions.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\Codigos\Csharp\functions\bin\Debug\net7.0\functions.exe
+C:\Users\Diogo\Desktop\Codigos\Csharp\functions\bin\Debug\net7.0\functions.deps.json
+C:\Users\Diogo\Desktop\Codigos\Csharp\functions\bin\Debug\net7.0\functions.runtimeconfig.json
+C:\Users\Diogo\Desktop\Codigos\Csharp\functions\bin\Debug\net7.0\functions.dll
+C:\Users\Diogo\Desktop\Codigos\Csharp\functions\bin\Debug\net7.0\functions.pdb
+C:\Users\Diogo\Desktop\Codigos\Csharp\functions\obj\Debug\net7.0\functions.dll
+C:\Users\Diogo\Desktop\Codigos\Csharp\functions\obj\Debug\net7.0\refint\functions.dll
+C:\Users\Diogo\Desktop\Codigos\Csharp\functions\obj\Debug\net7.0\functions.pdb
+C:\Users\Diogo\Desktop\Codigos\Csharp\functions\obj\Debug\net7.0\functions.genruntimeconfig.cache
+C:\Users\Diogo\Desktop\Codigos\Csharp\functions\obj\Debug\net7.0\ref\functions.dll
